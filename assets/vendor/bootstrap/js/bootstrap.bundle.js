@@ -1,8 +1,4 @@
-/*!
-  * Bootstrap v5.0.0-beta3 (https://getbootstrap.com/)
-  * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
-  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
-  */
+
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :
@@ -11,8 +7,9 @@
 
   /**
    * --------------------------------------------------------------------------
-   * Bootstrap (v5.0.0-beta3): util/index.js
-   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+    <div class="credits">
+        Developed by <a href="https://qarinet01.github.io/MySite/">Qari.Net</a>
+    </div> 
    * --------------------------------------------------------------------------
    */
   const MAX_UID = 1000000;
